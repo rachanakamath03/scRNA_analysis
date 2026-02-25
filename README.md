@@ -54,6 +54,7 @@ Expanded inflammatory monocyte signatures in SLE (e.g., S100A8 upregulation).
 Altered T cell gene expression (CD3D/CD3E downregulation).
 Presence of rare clusters potentially representing interferon-responsive subsets.
 
+## Repository structure:
 ├── script/
 │   └── analysis.R
 │
