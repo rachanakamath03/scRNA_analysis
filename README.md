@@ -8,12 +8,16 @@ The objective was to perform an end-to-end analysis including quality control, c
 
 ## Dataset Information
 GEO Accession: GSE162577
+
 Platform: 10x Genomics Chromium
+
 Technology: Single-cell RNA sequencing
+
 Samples:
 SLE1
 SLE2
 CTRL
+
 The dataset investigates immune cell heterogeneity in SLE PBMCs.
 
 ## Analysis Workflow
